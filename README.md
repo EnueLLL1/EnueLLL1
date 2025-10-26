@@ -1,54 +1,54 @@
-
 <h1 align="center">Olá! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"> Me chamo <a href="https://www.instagram.com/gomes_emanuel1//">Emanuel Gomes</a></h1>
 
-<p align="center">
-  <img src="https://instagram.fssa11-1.fna.fbcdn.net/v/t51.2885-19/471644705_894418175859535_862856729541074107_n.jpg?efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=instagram.fssa11-1.fna.fbcdn.net&_nc_cat=107&_nc_oc=Q6cZ2QED4GeDNWHpATgVxXnMhaO7Oqnw5O8n_2P15koUQ5nN9rd7TSlI-_u9uUWAOXvHya4&_nc_ohc=-KbbQZy6BawQ7kNvwEe7lQ8&_nc_gid=p1eEWXKyZJLp4vmgM2wzgQ&edm=ALGbJPMBAAAA&ccb=7-5&oh=00_AfdPW7rYbHwFx3VeB5rwpC25oZDsAWH-oL2eSpJaMbHvtg&oe=69016AA8&_nc_sid=7d3ac5" alt="Emanuel Bispo" width="150" style="border-radius:50%;" />
-</p>
+## 🚀 Sobre Mim
 
-**Estudante dedicado se formando à Engenharia de Software**  
-Sempre em busca de novas oportunidades de trabalho e projetos estimulantes.
+Estudante de **Engenharia de Software** apaixonado por tecnologia e desenvolvimento. Atualmente focado em **Back-end**, sempre em busca de novos desafios e oportunidades para crescer profissionalmente.
 
-- 🎯 **Foco atual:** Back-end
-- 🧘 **Vida tranquila, games nas horas vagas**
+- 🎯 **Foco atual:** Desenvolvimento Back-end
+- 💼 **Status:** Aberto a oportunidades de trabalho
+- 🎮 **Hobbies:** Games e vida tranquila
+- 📚 **Filosofia:** *"A busca pelo conhecimento é infinita – sempre há algo novo para aprender."*
 
-## 🚀 Projetos em destaque
+## 🛠️ Tecnologias & Ferramentas
 
-- [Aramari-RUSH-Diamonds-for-the-Queen](https://github.com/EnueLLL1/Aramari-RUSH-Diamonds-for-the-Queen)  
-  _Projeto de game feito em Java_
+### 📚 Aprendendo Atualmente
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 
-- [ProjetoBrinqueAprenda](https://github.com/petcau/ProjetoBrinqueAprenda)  
-  _Projeto colaborativo com foco em JavaScript, React, CSS e HTML_
+### 💪 Conhecimento Intermediário
 
-## 📊 Badges & Estatísticas
+**Back-end**
+![Java](https://img.shields.io/badge/java⭐-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) 
+![Maven](https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apache-maven&logoColor=white)
 
-<p align="center">
+**Front-end**
+![JavaScript](https://img.shields.io/badge/javascript⭐-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![React](https://img.shields.io/badge/react⭐-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
 
-  ### Linguagens
-  
-  ![Java](https://img.shields.io/badge/java⭐-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) 
-  ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
-  ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 
-  ### Ferramentas ou Frameworks já usados
-  
-  ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-  ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) 
-  ![React](https://img.shields.io/badge/react⭐-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) 
-  ![TailwindCSS](https://img.shields.io/badge/tailwindcss⭐-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) 
-  ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white)
-   
+**Banco de Dados**
+![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 
-  ### Bancos de Dados Apredidos
-  ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) 
-  ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+### 🌱 Conhecimento Básico
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
-  ### Ourtas ferramentas Aprendidas
-  
-  ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white) 
-  ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) 
-  ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) 
-  ![Trello](https://img.shields.io/badge/Trello⭐-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white)
-</p>
+### 🔧 Ferramentas
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+![IntelliJ IDEA](https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)
+![VS Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+
+**Gestão & Design**
+
+![Trello](https://img.shields.io/badge/Trello-0052CC?style=for-the-badge&logo=trello&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+
 
 <h2 align="center"><img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExNmE5NDI0eTk2dGI0endkcG0wZGJ4N3BmdTduM242amoyODY3NTdwYiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/Q24z3W4CY5r0uXeTWA/giphy.gif" width="35"> Stats do Github</h2>
 <p align=center>
@@ -63,14 +63,29 @@ Sempre em busca de novas oportunidades de trabalho e projetos estimulantes.
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EnueLLL1&layout=compact&langs_count=7&theme=tokyonight"/>
 </p>
 
-### 🔝 Top Contributed Repo
+## 🎮 Projetos em Destaque
 
-<p align="center">
+### [Aramari RUSH - Diamonds for the Queen](https://github.com/EnueLLL1/Aramari-RUSH-Diamonds-for-the-Queen)
+🎯 **Jogo 2D de aventura desenvolvido em Java**
+- Coleta de diamantes e combate a inimigos
+- Interface gráfica com Swing
+- Gerenciamento com Maven
+- Desenvolvimento em dupla com orientação acadêmica
+- **Tecnologias:** Java, Swing, Maven
 
-  ![](https://github-contributor-stats.vercel.app/api?username=EnueLLL1&limit=5&theme=dark&combine_all_yearly_contributions=true)
+### [Projeto Brinque Aprenda - Jornada do Bicho](https://github.com/petcau/ProjetoBrinqueAprenda)
+🐾 **Plataforma educacional interativa para crianças (Contribuição)**
+- **Minha contribuição:** Desenvolvimento do jogo **"Jornada do Bicho"**
+  - ✅ Responsável pelo desenvolvimento completo da lógica do jogo
+  - ✅ Implementação de mecânicas educativas e interativas
+  - ✅ Integração com a plataforma educacional
+- Jogo educativo focado no aprendizado de crianças do ensino fundamental
+- Trabalho colaborativo em equipe multidisciplinar (PET-CAU)
+- **Tecnologias:** JavaScript, React, HTML, CSS
+- **Outros jogos da plataforma:** Abacomania, Anagrama, Digirance
 
-</p>
-
----
-
-> “A busca pelo conhecimento é infinita – sempre há algo novo para aprender.”
+<div align="center">
+  
+  ### 💭 *"Código limpo não é escrito seguindo regras. É escrito por programadores que se importam."* - Robert C. Martin
+  
+</div>
