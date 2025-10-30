@@ -51,16 +51,13 @@ Estudante de **Engenharia de Software** apaixonado por tecnologia e desenvolvime
 
 
 <h2 align="center"><img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExNmE5NDI0eTk2dGI0endkcG0wZGJ4N3BmdTduM242amoyODY3NTdwYiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/Q24z3W4CY5r0uXeTWA/giphy.gif" width="35"> Stats do Github</h2>
-<p align=center>
-  <a href="https://github.com/denvercoder1/github-readme-streak-stats" title="Go to Source">
-    <img align="center" width=390 src="https://github-readme-streak-stats.herokuapp.com/?user=EnueLLL1&theme=github-dark-blue&border=61dafb&hide_border=true" alt="EnueLLL1"/>
-  </a>
-  <a href="https://github.com/anuraghazra/github-readme-stats" title="Go to Source">
-    <img align="center" width=390 src="https://github-readme-stats.vercel.app/api?username=EnueLLL1&count_private=true&show_icons=true&theme=github_dark&hide_border=true"/>
-  </a>
-</p>
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EnueLLL1&layout=compact&langs_count=7&theme=tokyonight"/>
+
+<p align=center
+  
+![](https://nirzak-streak-stats.vercel.app/?user=EnueLLL1&theme=tokyonight&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api?username=EnueLLL1&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=EnueLLL1&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+
 </p>
 
 ## 🎮 Projetos em Destaque
@@ -87,5 +84,4 @@ Estudante de **Engenharia de Software** apaixonado por tecnologia e desenvolvime
 <div align="center">
   
   ### 💭 *"Código limpo não é escrito seguindo regras. É escrito por programadores que se importam."* - Robert C. Martin
-  
-</div>
+
