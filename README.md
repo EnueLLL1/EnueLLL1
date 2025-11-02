@@ -12,7 +12,13 @@ Estudante de **Engenharia de Software** apaixonado por tecnologia e desenvolvime
 ## 🛠️ Tecnologias & Ferramentas
 
 ### 📚 Aprendendo Atualmente
+
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
+
+Veja meu [roadmap completo de aprendizado](./ROADMAP.md).
+
+Após o Spring Boot irei para o Docker!
+
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 
 ### 💪 Conhecimento Intermediário
